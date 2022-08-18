@@ -1,0 +1,10 @@
+util\PropertiesReader.class
+util\UserHelper.class
+util\BrowserFactory.class
+pages\LoginPage.class
+blocks\NavBar.class
+pages\RegistrationPage.class
+pages\AccountPage.class
+util\UserHelper$FakeUser.class
+blocks\BurgerConstructor.class
+pages\MainPage.class
