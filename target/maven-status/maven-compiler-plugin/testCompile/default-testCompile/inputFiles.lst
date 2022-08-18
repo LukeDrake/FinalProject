@@ -1,4 +1,9 @@
-C:\Users\mikey\IdeaProjects\FinalProject\src\test\java\TestBun.java
-C:\Users\mikey\IdeaProjects\FinalProject\src\test\java\TestIngredient.java
-C:\Users\mikey\IdeaProjects\FinalProject\src\test\java\TestIngredientType.java
-C:\Users\mikey\IdeaProjects\FinalProject\src\test\java\TestBurger.java
+C:\Users\mikey\IdeaProjects\FinalProject\src\test\java\UserCreateTest.java
+C:\Users\mikey\IdeaProjects\FinalProject\src\test\java\OrderCreateTest.java
+C:\Users\mikey\IdeaProjects\FinalProject\src\test\java\ChangeUserDataTest.java
+C:\Users\mikey\IdeaProjects\FinalProject\src\test\java\BaseTest.java
+C:\Users\mikey\IdeaProjects\FinalProject\src\test\java\CreateUserTestError.java
+C:\Users\mikey\IdeaProjects\FinalProject\src\test\java\ChangeUserDataTestWithError.java
+C:\Users\mikey\IdeaProjects\FinalProject\src\test\java\OrderGetTest.java
+C:\Users\mikey\IdeaProjects\FinalProject\src\test\java\LoginUserTest.java
+C:\Users\mikey\IdeaProjects\FinalProject\src\test\java\ChangeUserDataPasswordTest.java

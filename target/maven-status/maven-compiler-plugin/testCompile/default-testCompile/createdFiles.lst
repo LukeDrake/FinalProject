@@ -1,6 +1,9 @@
-TestIngredientType$WithParams.class
-TestIngredient.class
-TestIngredientType$WithoutParams.class
-TestBun.class
-TestBurger.class
-TestIngredientType.class
+CreateUserTestError.class
+UserCreateTest.class
+ChangeUserDataTestWithError.class
+ChangeUserDataTest.class
+OrderCreateTest.class
+OrderGetTest.class
+BaseTest.class
+ChangeUserDataPasswordTest.class
+LoginUserTest.class
