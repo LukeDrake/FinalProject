@@ -1,0 +1,6 @@
+TestIngredientType$WithParams.class
+TestIngredient.class
+TestIngredientType$WithoutParams.class
+TestBun.class
+TestBurger.class
+TestIngredientType.class
