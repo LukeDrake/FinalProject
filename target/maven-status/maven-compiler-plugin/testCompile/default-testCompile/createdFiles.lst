@@ -1,0 +1,9 @@
+CreateUserTestError.class
+UserCreateTest.class
+ChangeUserDataTestWithError.class
+ChangeUserDataTest.class
+OrderCreateTest.class
+OrderGetTest.class
+BaseTest.class
+ChangeUserDataPasswordTest.class
+LoginUserTest.class
